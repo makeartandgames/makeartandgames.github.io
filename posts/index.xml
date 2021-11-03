@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mike Mountain</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Mike Mountain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Nov 2021 19:40:30 -0400</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Voidstoryink</title>
+      <link>http://example.org/posts/voidstoryink/</link>
+      <pubDate>Tue, 02 Nov 2021 19:40:30 -0400</pubDate>
+      
+      <guid>http://example.org/posts/voidstoryink/</guid>
+      <description>
+&lt;!doctype html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;meta charset=&#34;utf-8&#34;&gt;
+
+    &lt;title&gt;The Intercept&lt;/title&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Autogallery</title>
+      <link>http://example.org/posts/autogallery/</link>
+      <pubDate>Tue, 02 Nov 2021 18:59:15 -0400</pubDate>
+      
+      <guid>http://example.org/posts/autogallery/</guid>
+      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+Gallery
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+  Gallery of my various and sundry arts.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Post By Me</title>
+      <link>http://example.org/posts/first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
