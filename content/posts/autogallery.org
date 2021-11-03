@@ -1,0 +1,22 @@
+---
+title: "Autogallery"
+date: 2021-11-02T18:59:15-04:00
+draft: true
+---
+* Gallery
+
+  Gallery of my various and sundry arts.
+# <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.0/jquery.fancybox.min.js"></script>
+
+
+
+
+
+<!--more--> 
+
+
+
+
+{{< foldergallery src="images" >}}
+
+

@@ -1,0 +1,15 @@
+<div id="{{ .Get " gallery"="" }}"="" data-nanogallery2="{
+"itemsBaseURL": "{{ .Get "src" }}",
+"thumbnailWidth": "auto",
+"thumbnailBorderVertical": 0,
+"thumbnailBorderHorizontal": 0,
+"thumbnailLabel": {
+"display": false
+},
+"thumbnailAlignment": "center",
+"viewerToolbar": {
+"standard": "minimizeButton, infoButton, shareButton, downloadButton, zoomButton, fullscreenButton",
+"minimized": "minimizeButton"}
+}">
+{{.Inner}}
+</div>

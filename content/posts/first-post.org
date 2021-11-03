@@ -1,0 +1,7 @@
+#+title: Post By Me
+#+author: Mike P
+#+lastmod: [2021-03-04 Thu 12:37]
+#+categories[]: emacs hugo org-mode
+#+draft: true
+#+variable: value
+#+list[]: value_1 value_2 value_3
