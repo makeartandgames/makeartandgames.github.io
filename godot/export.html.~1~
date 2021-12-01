@@ -137,7 +137,7 @@
 	<script type='text/javascript' src='export.js'></script>
 	<script type='text/javascript'>//<![CDATA[
 
-		const GODOT_CONFIG = {"args":[],"canvasResizePolicy":2,"executable":"/godot/export","experimentalVK":false,"fileSizes":{"/gotod/export.pck":130212464,"/godot/export.wasm":16565894},"gdnativeLibs":[]};
+		const GODOT_CONFIG = {"args":[],"canvasResizePolicy":2,"executable":"export","experimentalVK":false,"fileSizes":{"export.pck":130212464,"export.wasm":16565894},"gdnativeLibs":[]};
 		var engine = new Engine(GODOT_CONFIG);
 
 		(function() {
